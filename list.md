@@ -2,4 +2,7 @@ Pizza Ingredients
 =================
 
 - Cheese
-- Flour?
+- Flour? (da)
+- Chicken Stock Stuff
+- Kalamata Olives
+- Kosher Chicken Breasts
