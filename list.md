@@ -4,7 +4,7 @@ Pizza Ingredients
 - Cheese
 - Flour? (da)
 - Kalamata Olives
-- 
+
 Other Groceries
 =================
 
