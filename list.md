@@ -3,6 +3,10 @@ Pizza Ingredients
 
 - Cheese
 - Flour? (da)
-- Chicken Stock Stuff
 - Kalamata Olives
+- 
+Other Groceries
+=================
+
 - Kosher Chicken Breasts
+- Chicken Stock Stuff
