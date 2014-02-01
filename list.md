@@ -25,3 +25,4 @@ Other Groceries
 - Big ole tub of vanille
 - Some cans of coca-cola, buddy
 - Chokes
+- Dispose plate cup
