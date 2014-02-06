@@ -5,3 +5,4 @@ Other Groceries
 - Peanut Oil
 - Dish soap
 - Sticky tack stuff
+- Apples
