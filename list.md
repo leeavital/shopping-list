@@ -4,4 +4,4 @@ Other Groceries
 - Olive Oil (?)
 - Peanut Oil
 - Dish soap
-
+- Sticky tack stuff
