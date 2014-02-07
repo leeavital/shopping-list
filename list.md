@@ -6,3 +6,5 @@ Other Groceries
 - Dish soap
 - Sticky tack stuff
 - Apples
+- Pasta
+- Kartoshka
