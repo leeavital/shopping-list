@@ -9,3 +9,6 @@ Other Groceries
 - Pasta
 - Kartoshka
 - Chick Peas
+- Tuna
+- Tomato Paste
+- Brocolli
