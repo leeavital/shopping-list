@@ -1,21 +1,8 @@
-Other Groceries
+Standard Groceries
 =================
-- Tofu
-- Olive Oil (?)
 - Peanut Oil
 - Dish soap
-- Sticky tack stuff
+- Toilet Paper
 - Apples
-- Pasta
-- Kartoshka
-- Chick Peas
-- Tuna
-- Tomato Paste
 - Brocolli
 
-
-
-Asian Market
-===========
-- Soba
-- Fancy soy sauce
