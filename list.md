@@ -5,4 +5,7 @@ Standard Groceries
 - Toilet Paper
 - Apples
 - Brocolli
+- Glasses Repair Kit
+- Celery
+- Mayo
 
