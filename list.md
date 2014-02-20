@@ -7,4 +7,4 @@ Standard Groceries
 - Glasses Repair Kit
 - Celery
 - Mayo
-
+- Storage Bags
