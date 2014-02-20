@@ -2,9 +2,8 @@ Standard Groceries
 =================
 - Peanut Oil
 - Dish soap
-- Toilet Paper
+- Sponges
 - Apples
-- Brocolli
 - Glasses Repair Kit
 - Celery
 - Mayo
