@@ -1,6 +1,5 @@
 Standard Groceries
 =================
-- Peanut Oil
 - Dish soap
 - Sponges
 - Apples
@@ -8,3 +7,6 @@ Standard Groceries
 - Celery
 - Mayo
 - Storage Bags
+- Jalapeños
+- Canned Tomatos
+- Bread
