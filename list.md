@@ -3,5 +3,5 @@ Standard Groceries
 - Veggies
 - Tofu
 - Coconut Milk
-- Coffee bin
+- Coffee beans
 
